@@ -87,9 +87,6 @@ The Power BI dashboard provides:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Blinkit Sales Dashboard](625eb0f9-e869-4a8f-8a16-fde5fe0f2d69.png)
 
 ---
 
